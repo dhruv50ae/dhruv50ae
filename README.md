@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Musician, Blog Writer, and Adventurer!
 
-- 🔭 Check out my portfolio!
+- 🔭 Check out my [portfolio](https://dhruv50ae.github.io/Portfolio/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and engineers
 - 🥅 2022 Goals: Learn more about cutting edge technologies like AI, Deep learning and Automation
