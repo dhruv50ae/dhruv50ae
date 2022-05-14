@@ -25,6 +25,6 @@
 
 <br />
 
-### My Github Statistics
+### My Github Stats: 
 
 [![Dhruv50AE's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv50ae)](https://github.com/anuraghazra/github-readme-stats)
