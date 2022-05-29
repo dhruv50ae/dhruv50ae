@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Become a Full-Stack Cloud Engineer 
 - ⚡ Fun fact: One of the most common names is Dhruv, so I brand myself as Dhruv.50AE 🥇
 
-### Connect with me:
+### Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/dhruv50ae/)
 - [Instagram](https://www.instagram.com/frostascode/)
