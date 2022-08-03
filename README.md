@@ -3,7 +3,7 @@
 ## I'm a Developer, Musician, Blog Writer, and Adventurer!
 
 - 🔭 Check out my [portfolio](https://dhruv50ae.github.io/Portfolio/)!
-- 🌱 I’m currently learning Data Science & Machine Learning - Progression: 7.7%
+- 🌱 I’m currently learning Data Science & Machine Learning - Progression: 23%
 - 👯 I’m looking to collaborate with other developers and engineers
 - 🥅 2022 Goals: Become a Full-Stack Cloud Engineer 
 - ⚡ Fun fact: One of the most common names is Dhruv, so I brand myself as Dhruv.50AE 🥇
